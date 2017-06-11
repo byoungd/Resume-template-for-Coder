@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10cf6754-920e-4943-bd42-4d62dfe8dd7f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume-Sketch-byoungd/Resume-byoungd.sketch" afterPath="$PROJECT_DIR$/Resume-Sketch-byoungd/Resume-byoungd.sketch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume-Sketch-byoungd/Resume@2x.png" afterPath="$PROJECT_DIR$/Resume-Sketch-byoungd/Resume@2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -116,12 +114,12 @@
       <option name="presentableId" value="Default" />
       <updated>1497168302364</updated>
       <workItem from="1497168304190" duration="1027000" />
-      <workItem from="1497181601329" duration="61000" />
+      <workItem from="1497181601329" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1088000" />
+    <option name="totallyTimeSpent" value="1240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="985" extended-state="6" />
