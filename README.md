@@ -1,2 +1,9 @@
-# resume
-适合码农、设计师的简历设计
+# 适合程序员的简历
+
+目前只完成了英文版
+
+制作工具：Sketch
+
+预览：
+![Resume-byoungd](Resume-Sketch-byoungd/Resume@2x.png)
+
