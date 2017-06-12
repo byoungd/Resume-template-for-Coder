@@ -5,5 +5,5 @@
 制作工具：Sketch
 
 预览：
-![Resume-byoungd](Resume-Sketch-byoungd/Resume@2x.png)
+![Resume-byoungd](Resume-Sketch-byoungd/Designer@2x.png)
 
