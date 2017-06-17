@@ -13,3 +13,6 @@
 
 ![Resume-byoungd](Resume-Sketch-byoungd/Programmer@2x.png)
 
+## 生成PDF
+
+使用Sketch.app: File -> Export Artboards To PDF
