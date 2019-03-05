@@ -1,10 +1,14 @@
 # 适合程序员/设计师的简历模板
+
 制作工具：Sketch（版本:4.7）
 
 ## 说明
-这虽然是一份简洁大方的简历模板，但因为本人投入的时间较短仍然是比较粗糙的。
 
-模板中存在的对齐、配色问题麻烦使用者自行解决，抱歉。
+该简历的示例内容虽然偏向于前端工程师，不过适用范围并不仅限于此。
+
+## 2019 新版
+
+![Resume-byoungd-2019](Resume-Sketch-byoungd/Programmer-2019@2x.png)
 
 ## 前端、设计师：
 
@@ -18,7 +22,8 @@
 
 ![Resume-byoungd](Resume-Sketch-byoungd/Programmer-zh@2x.png)
 
-## 生成PDF步骤
+## 生成 PDF 步骤
 
-使用Sketch.app: Share -> Export Artboards To PDF
->旧版本是 File -> Export Artboards To PDF
+使用 Sketch.app: Share -> Export Artboards To PDF
+
+> 旧版本是 File -> Export Artboards To PDF
