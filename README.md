@@ -6,7 +6,11 @@
 
 该简历的示例内容虽然偏向于前端工程师，不过适用范围并不仅限于此。
 
-## 2019 新版
+## 2021 版
+
+![Resume-byoungd-2021](Resume-Sketch-byoungd/2021-preview.png)
+
+## 2019 版
 
 ![Resume-byoungd-2019](Resume-Sketch-byoungd/Programmer-2019@2x.png)
 
