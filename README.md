@@ -1,6 +1,6 @@
 # Template for Coder
 
-Created by Sketch.app version 81.1 (135647).
+Created by [Sketch.app](https://www.sketch.com/) version 81.1 (135647).
 
 ## Template List
 
