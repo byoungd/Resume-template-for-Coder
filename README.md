@@ -1,33 +1,29 @@
-# 适合程序员/设计师的简历模板
+# Template for Coder
 
-制作工具：Sketch.app 版本81.1 (135647)
+Created by Sketch.app version 81.1 (135647).
 
-## 说明
+## Template List
 
-该简历的示例内容虽然偏向于前端工程师，不过适用范围并不仅限于此。
-
-## 2021 版
+### version 2021 
 
 ![Resume-byoungd-2021](Resume-Sketch-byoungd/2021-preview.png)
 
-## 2019 版
+### version 2019
 
 ![Resume-byoungd-2019](Resume-Sketch-byoungd/Programmer-2019@2x.png)
 
-## 前端、设计师：
+### version 2018：
 
 ![Resume-byoungd](Resume-Sketch-byoungd/Designer@2x.png)
 
-## 程序员：
+### version 2017：
 
 ![Resume-byoungd](Resume-Sketch-byoungd/Programmer@2x.png)
 
-## 程序员中文：
+### version chinese：
 
 ![Resume-byoungd](Resume-Sketch-byoungd/Programmer-zh@2x.png)
 
-## 生成 PDF 步骤
+### Export to PDF
 
-使用 Sketch.app: Share -> Export Artboards To PDF
-
-> 旧版本是 File -> Export Artboards To PDF
+Sketch.app: Share -> Export Artboards To PDF
