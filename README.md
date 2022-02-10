@@ -2,6 +2,10 @@
 
 Created by [Sketch.app](https://www.sketch.com/) version 81.1 (135647).
 
+<p align='center'>
+<b>English</b> | <a href="https://github.com/byoungd/Resume-template-for-Coder/blob/main/README.zh-CN.md">简体中文</a>
+</p>
+
 ## Template List
 
 ### version 2021 
